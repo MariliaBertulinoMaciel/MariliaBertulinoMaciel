@@ -4,8 +4,10 @@
 
 Além disso sou apaixonada por percussão, animais e ciclismo.
 
-Atualmente trabalho no Afoxé Oxum Pandá como Percussionista e Compositora
+Atualmente trabalho no Afoxé Oxum Pandá como Percussionista e Compositora.
+
 Busco como meta pro futuro conseguir me recolocar no mercado Tech.
+
 Me formei em Ciência da Computação em 2013 
 desde lá nunca trabalhei no mercado de TI.
 
