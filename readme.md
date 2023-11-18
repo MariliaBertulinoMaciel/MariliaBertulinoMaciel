@@ -19,3 +19,5 @@ desde lá nunca trabalhei no mercado de TI.
  - Aws Partitioner
  -  SQL/NoSQL
  -  Análise e Tratamento de Dados (Pandas, Numpy)
+ -  Jupiter Notebook
+ -  Tableau
