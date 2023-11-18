@@ -18,6 +18,6 @@ desde lá nunca trabalhei no mercado de TI.
  - Git / Versionamento <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" />
  - Aws Partitioner
  -  SQL/NoSQL
- -  Análise e Tratamento de Dados (Pandas, Numpy)
+ -  Análise e Tratamento de Dados (Pandas, Numpy, MatplotLib)
  -  Jupiter Notebook
  -  Tableau
