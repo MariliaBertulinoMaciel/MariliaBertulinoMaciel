@@ -1,23 +1,15 @@
 # Olá, me chamo Marília
 
-### Sou estudante de Análise de dados - Python [Reprograma]  o/
+### Engenheira de Testes Especializada pela UFPE  - Projeto CIn Motorola 
 
-Além disso sou apaixonada por percussão, animais e ciclismo.
-
-Atualmente trabalho no Afoxé Oxum Pandá como Percussionista e Compositora.
-
-Busco como meta pro futuro conseguir me recolocar no mercado Tech.
-
-Me formei em Ciência da Computação em 2013 
-desde lá nunca trabalhei no mercado de TI.
+Atualmente minha mais recente formação foi na Residência de Engenharia de Testes de Software de Centro de Informática da Universidade Federal de Pernambuco - 2024-2025 
+Também tenho formação em Ciência da Computação pelo Centro Universitário dos Guararapes -2013
 
 ### Tecnologias que estudo atualmente
-
+ - Selenium + Java
+ - Cypress
+ - Certificação para CTFL 
  - Python
  - Java 
  - Git / Versionamento <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" />
- - Aws Partitioner
- -  SQL/NoSQL
- -  Análise e Tratamento de Dados (Pandas, Numpy, MatplotLib)
- -  Jupiter Notebook
- -  Tableau
+ - SQL
